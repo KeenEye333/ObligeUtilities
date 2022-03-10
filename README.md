@@ -20,11 +20,12 @@ delete.
 
 2. AshesOblige-master.zip  --  GZDoom mod that will use freedoom.wad as a 
                                base game files to run.
-							   To download this file, goto this link
-			                   https://github.com/KeenEye333/AshesOblige
-			                   Visit that github page and click on "CODE", 
-			                   a green color button.
-							   After that, click on "Download This Zip"
+			       
+			       To download this file, goto this link
+			       https://github.com/KeenEye333/AshesOblige
+			       Visit that github page and click on "CODE", 
+			       a green color button.
+			       After that, click on "Download This Zip"
 							   
 							   
 3. ctl  --  This folder includes some libraries of Launcher files. Without 
