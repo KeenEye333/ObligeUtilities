@@ -19,7 +19,7 @@ delete.
 
 
 2. AshesOblige-master.zip  --  GZDoom mod that will use freedoom.wad as a 
-                               base game files to run.
+                               base game file to run.
 			       
 			       To download this file, goto this link
 			       https://github.com/KeenEye333/AshesOblige
