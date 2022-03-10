@@ -1,11 +1,12 @@
 #############################################################################
 
-                              INSTALLATION GUIDE
+                                  INSTALLATION GUIDE
 
 #############################################################################
 
 Make sure that you have copied the following files and folder in GZDoom
-                         extracted/installed folder
+extracted/installed folder. Do not rename the file extension, file name or
+delete.
 
 
 
@@ -47,7 +48,7 @@ Make sure that you have copied the following files and folder in GZDoom
 						
 #############################################################################
 
-                            UPDATING THE GAME GUIDE 
+                               UPDATING THE GAME GUIDE 
 
 #############################################################################
 
