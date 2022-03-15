@@ -16,14 +16,14 @@ set "ASHESOBLIGE=AshesOblige-master.zip"
 cls
 color 03
 echo .----------------------------------------------------------------.
-echo .              .:.      Felix, The Cat Launcher        CTL v1.1  .
+echo .              .:.      Felix, The Cat Launcher                  .
 echo .             .::::.                                             .
 echo . ..         ..::::::''::                                        .
 echo . ::::..  .::''''':::    ''.                                     .
 echo . ':::::::'         '.  ..  '.           Hello Beautiful         .
 echo . ::::::'            : '::   :                                   .
 echo .  :::::     .        : ':'   :                                  .
-echo .  :::::    :::       :.     .'.   Welcome To The Gaming Portal  .
+echo .  :::::    :::       :.     .'.        Felix Welcomes You       .
 echo . .::::::    ':'     .' '.:::: :                                 .
 echo . ::::::::.         .    ::::: :                                 .
 echo . :::::    '':.... ''      '''' :           Lets Play!           .
@@ -31,7 +31,7 @@ echo . ':::: .:'              ...'' :                                 .
 echo . ..::.   '.........:::::'   :                                   .
 echo .  '':::.   '::'':'':::'   .'                                    .
 echo .        '..  ''.....'  ..'                                      .
-echo .           ''........''                  (C) KeenEye 2022-2023  .
+echo .           ''........''                                CTL v1.1 .
 echo .----------------------------------------------------------------.
 pause
 cls
